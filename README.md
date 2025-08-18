@@ -4,6 +4,15 @@ This project demonstrates the power of **Object-Oriented Programming (OOP)** con
 
 ---
 
+## 📚 Training Source
+
+This project was developed as part of the Object-Oriented Programming training with
+Dr. Mohamed AbouHadhood 👨‍🏫
+
+🔗 www.programmingadvices.com
+
+---
+
 ## 📌 Project Overview
 We started by creating a **Person** class that contains the basic details of any person:  
 - `ID`, `FirstName`, `LastName`, `Email`, `Phone`  
@@ -41,6 +50,19 @@ Then we extended this class to create:
 
 - **Reusability & Cleaner Code**  
   With inheritance, we avoided repeating common attributes and logic, resulting in more structured and maintainable code.  
+
+---
+
+## ⚡ Key Takeaways
+
+- Inheritance makes code shorter, cleaner, and more reusable.
+
+- Function Overriding allows customizing behavior in child classes.
+
+- Constructor chaining ensures proper object initialization at every inheritance level.
+
+- OOP helps unify coding styles and makes my code closer to professional standards.
+
 
 ---
 
